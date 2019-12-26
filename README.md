@@ -17,6 +17,3 @@ Date of Occurrance: (Time \ Date the issue happended, not applicable for Feature
 
 Details: (Please provide as much information you can including steps to repeat if possible)
 
-
-
-Thank you, CFSScan
